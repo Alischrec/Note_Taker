@@ -21,7 +21,7 @@ Explore the [Project Page](https://github.com/Alischrec/Note_Taker)
 ## About the Project:
 The focus of this project was to build a Node CLI that acts as an active note taker app. 
 
-<!-- ![Project Gif](images/gif.gif) -->
+![Project Gif](gif.gif)
 
 ### JavaScript:
 * [index.js](https://github.com/Alischrec/Note_Taker/blob/main/index.js)
