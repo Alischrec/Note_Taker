@@ -33,7 +33,7 @@ The focus of this project was to build a Node CLI that acts as an active note ta
 * [Database](https://github.com/Alischrec/Note_Taker/tree/main/db)
 
 ### Built With:
-* This app is build upon [Node.js](https://nodejs.org/en/), [Express package](https://expressjs.com/), and the [Heroku](https://dashboard.heroku.com/apps)
+* This app is build upon [Node.js](https://nodejs.org/en/), [Express package](https://expressjs.com/), and the [Heroku](https://dashboard.heroku.com/apps) application.
 
 ## Getting Started:
 To get a local copy up and running follow the steps below.
