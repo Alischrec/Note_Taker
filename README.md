@@ -19,20 +19,21 @@ Explore the [Project Page](https://github.com/Alischrec/Note_Taker)
 * [Acknowledgements](#acknowledgements)
 
 ## About the Project:
-<!-- The focus of this project was to build a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person. This project also focused on utilizing the Node Jest package for testing purposes.  -->
+The focus of this project was to build a Node CLI that acts as an active note taker app. 
 
-![Project Gif](images/gif.gif)
+<!-- ![Project Gif](images/gif.gif) -->
 
 ### JavaScript:
-<!-- * [index.js](https://github.com/Alischrec/Note_Taker/blob/main/app.js) -->
+* [index.js](https://github.com/Alischrec/Note_Taker/blob/main/index.js)
+* [notes.js](https://github.com/Alischrec/Note_Taker/blob/main/notes.js)
 
 ### Assets:
-<!-- * [Library](https://github.com/Alischrec/Note_Taker/tree/main/lib)
-* [Templates](https://github.com/Alischrec/Note_Taker/tree/main/templates)
-* [Tests](https://github.com/Alischrec/Note_Taker/tree/main/test) -->
+* [CSS](https://github.com/Alischrec/Note_Taker/tree/main/public/assets/css)
+* [JS](https://github.com/Alischrec/Note_Taker/tree/main/public/assets/js)
+* [Database](https://github.com/Alischrec/Note_Taker/tree/main/db)
 
 ### Built With:
-<!-- * This app is build upon [Node.js](https://nodejs.org/en/), [Jest](https://jestjs.io/), and the [Inquirer package](https://www.npmjs.com/package/inquirer) -->
+* This app is build upon [Node.js](https://nodejs.org/en/), [Express package](https://expressjs.com/), and the [Heroku](https://dashboard.heroku.com/apps)
 
 ## Getting Started:
 To get a local copy up and running follow the steps below.
